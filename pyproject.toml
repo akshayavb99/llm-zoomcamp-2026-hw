@@ -1,0 +1,18 @@
+[project]
+name = "llm-zoomcamp-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dataclasses>=0.8",
+    "gitsource>=0.0.5",
+    "jupyter>=1.1.1",
+    "langchain>=1.3.7",
+    "minsearch>=0.1.0",
+    "openai>=2.41.1",
+    "pydantic>=2.13.4",
+    "pydantic-ai>=1.107.0",
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+]
